@@ -13,6 +13,6 @@ def func2():
 
 def func3():
     x = 0
-    for i in range(1000000):
+    for i in range(1500000):
         x += i
     return x

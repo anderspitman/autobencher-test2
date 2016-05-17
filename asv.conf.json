@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "project": "project",
+    "project": "abtest",
     "project_url": "http://project-homepage.org/",
     "repo": ".",
     "environment_type": "conda"

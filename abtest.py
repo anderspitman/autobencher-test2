@@ -7,7 +7,7 @@ def func1():
     
 def func2():
     x = 0
-    for i in range(200000):
+    for i in range(300000):
         x += i
     return x
 

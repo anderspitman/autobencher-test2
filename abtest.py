@@ -1,6 +1,6 @@
 def func1():
     x = 0
-    for i in range(50000):
+    for i in range(10000):
         x += i
     return x
 
